@@ -2,7 +2,7 @@ from pyfiglet import Figlet
 from termcolor import colored
 
 
-def great_text(text: str, font: str, color: str):
+def great_text(text: str = "Hello", font: str = "isometric2", color: str = "red"):
     f = Figlet(font=font)
     print(colored(f.renderText(text), color))
 
