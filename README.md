@@ -44,7 +44,7 @@ great_text("Hello","red","isometric2",)
 
 ```
 
-> Note: `You can change text ,color and fonts and fonts and color are optional`
+> Note: `You can change text ,color and fonts`
 
 Now RUN
 
@@ -66,6 +66,8 @@ white
 ```
 
 Possible Fonts are Listed below:
+
+> Note: `fonts are optional`
 
 ```sh
 1943____
