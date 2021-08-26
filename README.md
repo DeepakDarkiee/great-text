@@ -1,20 +1,15 @@
-# Great Text 
+# Great Text
 
 This package enables you to print great text like below
 ![image](https://github.com/DeepakDarkiee/great-text/blob/master/great.png?raw=True).
 
-
-
 great-text requires [Python](https://www.python.org/downloads/release/python-395/) v8+ to run.
 
-
-To install this package, use 
+To install this package, use
 
 ```bash
 pip install great-text
 ```
-
-
 
 ## RUN
 
@@ -28,29 +23,28 @@ First Tab:
 touch example.py
 ```
 
-Open your favorite text editor and write 
+Open your favorite text editor and write
 
 ```sh
 from great_text import great_text
 ```
 
-call the function great-text with arguments given bellow 
+call the function great-text with arguments given bellow
+
 ```sh
-great_text("Hello", "isometric2", "red")
+great_text("Hello","red","isometric2")
 ```
+
 the code will look like this
 
 ```sh
 from great_text import great_text
 
-great_text("Hello", "isometric2", "red")
+great_text("Hello","red","isometric2",)
 
 ```
 
-
-> Note: `You can change text ,color and fonts` 
-
-
+> Note: `You can change text ,color and fonts and fonts and color are optional`
 
 Now RUN
 
@@ -72,6 +66,7 @@ white
 ```
 
 Possible Fonts are Listed below:
+
 ```sh
 1943____
 3-d
@@ -505,7 +500,7 @@ zone7___
 MIT
 
 **Free Software, Hell Yeah!**
-## Author 
+
+## Author
+
 [Deepak Patidar](https://github.com/DeepakDarkiee/great-text)
-
-

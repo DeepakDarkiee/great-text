@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "great_text"
-version = "0.1.5"
+version = "0.1.6"
 description = "Add font and color to your Python text."
 authors = ["Deepak Patidar <info.deepakpatidar@gmail.com>"]
 repository = 'https://github.com/DeepakDarkiee/great-text.git'
