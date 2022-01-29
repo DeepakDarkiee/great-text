@@ -3,7 +3,7 @@
 This package enables you to print great text like below
 ![image](https://github.com/DeepakDarkiee/great-text/blob/master/great.png?raw=True).
 
-great-text requires [Python](https://www.python.org/downloads/release/python-395/) v8+ to run.
+great-text requires [Python](https://www.python.org/downloads/release/python-395/) v3.6+ to run.
 
 To install this package, use
 
